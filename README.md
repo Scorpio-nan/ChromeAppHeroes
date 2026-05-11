@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [133《Shift Translator Hover Toggle》调用Chrome自带的离线翻译API，沉浸式翻译的平替](https://zhaoolee.com/ChromeAppHeroes/#/133-shift-translator-hover-toggle.md)
+
 - [132《Gemini NanoBanana Watermark Remover》提升AI生图幸福感！油猴脚本自动移除NanaBanana水印](https://zhaoolee.com/ChromeAppHeroes/#/132-gemini-nano-banana-watermark-remover.md)
 
 - [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器](https://zhaoolee.com/ChromeAppHeroes/#/131-ublock-origin-lite.md)
@@ -279,6 +281,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
+
+### [133《Shift Translator Hover Toggle》调用Chrome自带的离线翻译API，沉浸式翻译的平替](https://zhaoolee.com/ChromeAppHeroes/#/133-shift-translator-hover-toggle.md)
+
+![](./docs/133-shift-translator-hover-toggle.assets/0e4cde4592dff16da9c99f5228e3209bae5922bf617751000c4833f5510fb05f.gif)
+
+大模型时代，垃圾信息满天飞，假新闻，假图片的制作成本越来越低，作为一个开发者，能从海外新闻找信息来源，读流畅阅读英文原版文档，可以让我们的认知更符合现实，不让道心蒙尘。
 
 ### [132《Gemini NanoBanana Watermark Remover》提升AI生图幸福感！油猴脚本自动移除NanaBanana水印](https://zhaoolee.com/ChromeAppHeroes/#/132-gemini-nano-banana-watermark-remover.md)
 

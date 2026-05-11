@@ -1,3 +1,4 @@
+* [133《Shift Translator Hover Toggle》调用Chrome自带的离线翻译API，沉浸式翻译的平替](/133-shift-translator-hover-toggle.md)
 * [132《Gemini NanoBanana Watermark Remover》提升AI生图幸福感！油猴脚本自动移除NanaBanana水印](/132-gemini-nano-banana-watermark-remover.md)
 * [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器](/131-ublock-origin-lite.md)
 * [130《Get cookies.txt LOCALLY》 获取油管cookies，自动化下载油管视频](/130-get-cookiestxt-locally.md)
